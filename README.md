@@ -1,7 +1,6 @@
 # Hello, I'm Harsh From India 🇮🇳
 
-(setq markdown-xhtml-header-content
-"<style type="text/css">
+<!-- <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
 
 body {
@@ -29,13 +28,7 @@ body {
   }
 }
 }
-</style>"
-)
-
-
-
-
-
+</style> -->
 
 <div align="center">
 <img src="./Assets/Images/Harsh.webp" alt="Harsh Bharadiya" width="550" style="object-fit: cover; animation: border-animation 4s linear infinite; border: 4px solid; border-image: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ff0000) 1; box-sizing: border-box;" />
