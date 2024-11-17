@@ -1,7 +1,7 @@
 # Hello, I'm Harsh From India 🇮🇳
 
-
-<style style="display: none;">
+(setq markdown-xhtml-header-content
+"<style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
 
 body {
@@ -29,7 +29,11 @@ body {
   }
 }
 }
-</style>
+</style>"
+)
+
+
+
 
 
 
