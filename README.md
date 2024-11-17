@@ -1,19 +1,11 @@
 # Hello, I'm Harsh From India 🇮🇳
 
 
-<style>
+<style style="display: none;">
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
 
 body {
     font-family: 'Walter Turncoat', cursive;
-}
-</style>
-
-
-<div align="center">
-<img src="./Assets/Images/Harsh.webp" alt="Harsh Bharadiya" width="550" style="object-fit: cover; animation: border-animation 4s linear infinite; border: 4px solid; border-image: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ff0000) 1; box-sizing: border-box;" />
-
-<style>
 @keyframes border-animation {
   0% { 
     border-image: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ff0000) 1;
@@ -36,7 +28,16 @@ body {
     box-shadow: 0 0 20px rgba(255, 0, 0, 0.5), 0 0 40px rgba(0, 255, 0, 0.5), 0 0 60px rgba(0, 0, 255, 0.5);
   }
 }
+}
 </style>
+
+
+
+<div align="center">
+<img src="./Assets/Images/Harsh.webp" alt="Harsh Bharadiya" width="550" style="object-fit: cover; animation: border-animation 4s linear infinite; border: 4px solid; border-image: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ff0000) 1; box-sizing: border-box;" />
+
+
+
 </div>
 <b align="left" style="font-size: 16px; font-weight: 500;">As a developer, I believe in continuous learning and growth in the ever-evolving tech landscape. Currently exploring Next.js, GSAP, Framer Motion, and Three.js to enhance my development skills. Staying updated with new technologies helps me build better solutions and keeps me excited about the endless possibilities in software development.</b>
 
